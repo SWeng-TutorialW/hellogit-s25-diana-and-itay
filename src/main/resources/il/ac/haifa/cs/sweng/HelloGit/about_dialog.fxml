@@ -11,7 +11,11 @@
 
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="DIANA HAS MANAGED TO CHANGE THIS"
+
+		   text="OUR IDs: 214282212, 327448924"
+
+		   
+
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
